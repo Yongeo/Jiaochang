@@ -74,7 +74,9 @@ html{
     font-family:sans-serif;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%}
-body{margin:0}
+body{margin:0
+     background-color:#efefef !important;
+}
 
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{
@@ -140,6 +142,12 @@ div.content{
 
 div.link{
 	font-size: 20px;
+}
+
+div.bei{
+	background: #f7f7f9;
+	border:     none;
+	border-radius: 15px;
 }
 
 h2.biao{ 
